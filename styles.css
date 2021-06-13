@@ -1,0 +1,71 @@
+.M{
+    background-color: lightgoldenrodyellow;
+}
+
+.H{
+
+    font-size: 20px;
+    color: black;
+    background-color: lightgreen;
+}
+.e{
+    font-style: italic;
+    font-size: 20px;
+    color: red;
+
+
+}
+.A{
+    font-style:italic;
+    font-Size: 20px;
+
+}
+
+
+.R{
+    font-style: italic;
+    font-size: 18px;
+    color: red;
+    word-spacing: 3px;
+    line-height-step: 3px;
+}
+
+.V{
+    font-style: normal;
+    font-size: 30px;
+    color: whitesmoke;
+
+}
+
+.C{
+     width: 10px;
+     height:20px;
+    border-radius: 20px;
+}
+
+.Z{
+    font-style: italic;
+    color: red;
+
+}
+
+.y{
+    font-size: 16px;
+    word-spacing: 8px;
+
+}
+
+.p{
+   line-height-step: 2px;
+}
+
+.T{
+    font-size: 30px;
+}
+@media(max-width:650px){
+  .sandy{
+       height: 20px;
+       background-color: blue;
+
+   }
+}
